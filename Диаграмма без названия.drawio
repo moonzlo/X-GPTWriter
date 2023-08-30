@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-08-30T10:56:58.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.3.823 Yowser/2.5 Safari/537.36" etag="sqvv7NAvgSzzcLv7S0Jj" version="21.6.8" type="github">
+  <diagram name="Страница — 1" id="Q3CDgJYFJwM4sp-KvRaH">
+    <mxGraphModel dx="1184" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-1" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#12AAB5;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#12AAB5;" vertex="1" parent="1">
+          <mxGeometry x="521" y="440" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-2" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#23445D;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="521" y="420" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-3" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#AE4132;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#AE4132;" vertex="1" parent="1">
+          <mxGeometry x="521" y="400" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#F2931E;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#F2931E;" vertex="1" parent="1">
+          <mxGeometry x="521" y="380" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-5" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.cylinder;fillColor=#10739E;strokeColor=none;shadow=0;align=left;labelPosition=right;spacingLeft=10;fontStyle=1;fontColor=#10739E;" vertex="1" parent="1">
+          <mxGeometry x="521" y="360" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-6" value="Label" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#10739E;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="200" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-7" value="Label" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#F2931E;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="280" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-8" value="Label" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#AE4132;align=left;verticalAlign=top;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="360" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-9" value="Label" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#23445D;align=left;verticalAlign=bottom;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="430" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-10" value="Label" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#12AAB5;align=left;verticalAlign=bottom;strokeColor=#666666;fillColor=#4D9900;flipV=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="450" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-11" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="230" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-12" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="310" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="390" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-14" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="490" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8StHDYTVIw2ssUNH-7aL-15" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." style="rounded=0;whiteSpace=wrap;shadow=0;strokeColor=none;strokeWidth=6;fillColor=none;fontSize=12;align=right;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="580" width="240" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
